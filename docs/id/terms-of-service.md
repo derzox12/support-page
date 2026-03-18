@@ -25,7 +25,7 @@ Kami sangat menjaga informasi pribadi Anda. Kami sangat menyarankan Anda untuk t
 Kami sangat melarang penyalahgunakan bug untuk mendapatkan keuntungan. Laporkan bug di [venitymc.com/discord](https://venitymc.com/discord)
 
 ## 8. Dilarang memperjualbelikan akun
-Memperjualbelikan akun Minecraft/Xbox di Venity Network merupakan hal yang sangat dilarang di server Venity Network. Anda memiliki resiko yang tinggi menjadi korban penipuan ketika memperjualbelikan akun.
+Memperjualbelikan akun Minecraft/Xbox/Microsoft di Venity Network merupakan hal yang sangat dilarang di server Venity Network. Anda memiliki resiko yang tinggi menjadi korban penipuan ketika memperjualbelikan akun.
 
 ## 9. Terima hukuman
 Menerima hukuman yang diberikan oleh kami. Jika Anda merasa yakin tidak melanggar peraturan, ajukan banding di [venitymc.com/discord](https://venitymc.com/discord)
